@@ -185,5 +185,4 @@ const _user: _IUser = {
 const _extendedUser = addId<_IUser>(_user);
 console.log(_extendedUser);
 
-
 //#endregion
